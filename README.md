@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/d7vO2Dm.png">
+<img src="https://github.com/DLFC/EasyNet-Resources/blob/master/image/600x200_noshadow.png">
 
 # EasyNet
 Parallel deep learning framework.
